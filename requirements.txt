@@ -4,3 +4,4 @@ stmol
 py3Dmol
 pandas
 rdkit
+ipython_genutils
